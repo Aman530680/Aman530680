@@ -4,31 +4,30 @@
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="220">
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200">
 </p>
 
 ---
 
 <!-- About Me -->
-<img align="right" alt="Coding GIF" width="420" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding GIF" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-### 👨‍💻 About Me
-- 🌱 Currently learning **Machine Learning, Web Development Frameworks, and Advanced Data Structures**  
-- 💬 Ask me about **Python, Java, C++, SQL, React, Frontend Development**  
-- 🚀 I love **turning ideas into interactive experiences**  
+### 👨‍💻 About Me  
+- 🌱 Currently learning **Machine Learning, Web Frameworks, and Advanced DSA**  
+- 💬 Ask me about **Python, Java, C++, SQL, React & Frontend Development**  
+- 🚀 Passionate about **turning ideas into interactive experiences**  
 - 📫 Reach me at: **officala93@gmail.com**  
-- ⚡ Fun Fact: *Coffee ☕ is my secret algorithm booster and music 🎶 my debugging partner!*  
-- 🏆 Goal: To become a **well-rounded software engineer** solving real-world problems  
+- ⚡ Fun Fact: *Coffee ☕ + Music 🎶 = 2x Debugging Power*  
+- 🏆 Goal: To become a **well-rounded software engineer solving real-world problems**  
 
 ---
 
 <!-- Badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aman530680&label=Profile%20Views&color=FFD700&style=for-the-badge" alt="views" />
-  <a href="https://github.com/aman530680?tab=followers">
-    <img src="https://img.shields.io/github/followers/aman530680?label=Followers&style=for-the-badge&logo=github&color=000000&labelColor=FFD700" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=aman530680&label=Profile%20Views&color=FFD700&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/aman530680?label=Followers&style=for-the-badge&logo=github&color=000000&labelColor=FFD700" />
   <img src="https://img.shields.io/badge/Focus-Learning-yellow?style=for-the-badge&logo=target&logoColor=black" />
+  <img src="https://img.shields.io/badge/Open%20To-Collaborations-FFD700?style=for-the-badge&logo=handshake&logoColor=000" />
 </p>
 
 ---
@@ -36,10 +35,10 @@
 <!-- Connect Section -->
 <h3 align="center">🌐 Connect with Me</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/aman-karn-569040345"><img src="https://img.icons8.com/color/96/linkedin.png" height="45"/></a>
-  <a href="https://instagram.com/aman_karn152"><img src="https://img.icons8.com/fluency/96/instagram-new.png" height="45"/></a>
-  <a href="https://leetcode.com/officala93"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-leetcode-online-judge-for-coding-interviews-logo-color-tal-revivo.png" height="45"/></a>
-  <a href="mailto:officala93@gmail.com"><img src="https://img.icons8.com/color/96/gmail.png" height="45"/></a>
+  <a href="https://linkedin.com/in/aman-karn-569040345"><img src="https://img.icons8.com/color/96/linkedin.png" height="40"/></a>
+  <a href="https://instagram.com/aman_karn152"><img src="https://img.icons8.com/fluency/96/instagram-new.png" height="40"/></a>
+  <a href="https://leetcode.com/officala93"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-leetcode-online-judge-for-coding-interviews-logo-color-tal-revivo.png" height="40"/></a>
+  <a href="mailto:officala93@gmail.com"><img src="https://img.icons8.com/color/96/gmail.png" height="40"/></a>
 </p>
 
 ---
@@ -52,11 +51,11 @@
 
 ---
 
-<!-- GitHub Stats with Animation -->
+<!-- GitHub Stats -->
 <h3 align="center">📊 GitHub Analytics</h3>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aman530680&show_icons=true&theme=vision-friendly-dark&title_color=FFD700&icon_color=FFD700&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aman530680&layout=compact&theme=vision-friendly-dark&title_color=FFD700&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=aman530680&show_icons=true&theme=radical&title_color=FFD700&icon_color=FFD700&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aman530680&layout=compact&theme=radical&title_color=FFD700&hide_border=true" height="180"/>
 </p>
 
 <p align="center">
@@ -68,7 +67,16 @@
 <!-- Activity Graph -->
 <h3 align="center">⚡ Activity Heatmap</h3>
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aman530680&theme=yellow-black&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aman530680&theme=high-contrast&hide_border=true&area=true&color=FFD700&line=FFD700" />
+</p>
+
+---
+
+<!-- Projects -->
+<h3 align="center">🚀 Featured Projects</h3>
+<p align="center">
+  <a href="https://github.com/aman530680"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aman530680&repo=Waste-Management-System&theme=radical&title_color=FFD700&hide_border=true" /></a>
+  <a href="https://github.com/aman530680"><img src="https://github-readme-stats.vercel.app/api/pin/?username=aman530680&repo=Event-Ticket-Booking&theme=radical&title_color=FFD700&hide_border=true" /></a>
 </p>
 
 ---
@@ -76,15 +84,7 @@
 <!-- Trophies -->
 <h3 align="center">🏆 GitHub Achievements</h3>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=aman530680&theme=algolia&margin-w=10&margin-h=10&column=6" />
-</p>
-
----
-
-<!-- Snake Contribution Animation -->
-<h3 align="center">🐍 My GitHub Contribution Snake</h3>
-<p align="center">
-  <img src="https://github.com/aman530680/aman530680/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-profile-trophy.vercel.app/?username=aman530680&theme=onestar&margin-w=10&margin-h=10&column=6" />
 </p>
 
 ---
@@ -92,8 +92,9 @@
 <!-- Fun Side -->
 <h3 align="center">🎯 Fun Side of Me</h3>
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="300" />
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300" />
+  <i>“I debug with coffee ☕ and dance with code 🎶💻”</i><br><br>
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="250" />
+  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="250" />
 </p>
 
 ---
@@ -101,7 +102,7 @@
 <!-- Quote -->
 <h3 align="center">💡 Favorite Quote</h3>
 <p align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Code+is+like+humor.+When+you+have+to+explain+it,+it’s+bad.&author=Unknown&color=FFD700" />
 </p>
 
 ---
