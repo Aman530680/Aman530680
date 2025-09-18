@@ -29,18 +29,6 @@
 
 ---
 
-### 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aman530680&show_icons=true&theme=radical&title_color=FFD700&icon_color=FFD700&hide_border=true&bg_color=0D1117" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aman530680&layout=compact&theme=radical&title_color=FFD700&hide_border=true&bg_color=0D1117" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=aman530680&theme=highcontrast&ring=FFD700&fire=FFD700&currStreakLabel=FFD700&hide_border=true" height="190"/>
-</p>
-
----
-
 ### ⚡ Contribution Heatmap
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aman530680&theme=high-contrast&hide_border=true&area=true&color=FFD700&line=FFD700&bg_color=0D1117" />
