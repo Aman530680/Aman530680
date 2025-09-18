@@ -29,13 +29,6 @@
 
 ---
 
-### ⚡ Contribution Heatmap
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aman530680&theme=high-contrast&hide_border=true&area=true&color=FFD700&line=FFD700&bg_color=0D1117" />
-</p>
-
----
-
 ### 🛠️ Tech Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,java,cpp,html,css,js,react,nodejs,mysql,mongodb,git,github" />
