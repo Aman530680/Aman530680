@@ -63,7 +63,7 @@
   <a href="https://instagram.com/aman_karn152">
     <img src="https://img.icons8.com/fluency/96/instagram-new.png" height="45" />
   </a>
-  <a href="https://leetcode.com/officala93">
+  <a href="https://leetcode.com/Aman530680">
     <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" height="45" />
   </a>
   <a href="https://github.com/Aman530680">
