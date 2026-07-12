@@ -84,15 +84,18 @@ Philosophy:
   <img src="https://leetcard.jacoblin.cool/Aman530680?theme=dark&font=Fira%20Code&ext=heatmap" />
 </div>
 
-Live stats pulled directly from your LeetCode profile.
-
-
-
-
 🔥 What I Bring To The Table
 
 <div align="center">
-🚀 Domain⚡ ExpertiseData SciencePython, Pandas, NumPy, EDA, StatisticsMachine LearningScikit-learn, TensorFlow, PyTorch, Model DeploymentFrontendReact.js, Next.js, Responsive UIBackendNode.js, Flask, Django, REST APIsDatabaseMongoDB, MySQL, PostgreSQLDevOpsDocker, GitHub Actions, Deployment
+
+| Domain | Expertise |
+| :--- | :--- |
+| **Data Science** | Python, Pandas, NumPy, EDA, Statistics |
+| **Machine Learning** | Scikit-learn, TensorFlow, PyTorch, Model Deployment |
+| **Frontend** | React.js, Next.js, Responsive UI |
+| **Backend** | Node.js, Flask, Django, REST APIs |
+| **Database** | MongoDB, MySQL, PostgreSQL |
+| **DevOps** | Docker, GitHub Actions, Deployment |
 
 </div>
 
@@ -112,13 +115,6 @@ Live stats pulled directly from your LeetCode profile.
 <img src="https://img.shields.io/badge/Real%20Time%20Dashboards-00F0FF?style=for-the-badge&labelColor=0D1117" />
 </p>
 
-💡 Tip: Add pinned repository cards here for your top 2–4 projects, e.g.
-
-Show Image
-
-
-
-
 🎯 2026 Goals
 
 yamlGoals:
@@ -129,7 +125,6 @@ yamlGoals:
   - Strengthen DSA & problem solving on LeetCode
   - Build powerful developer & data portfolio
 
-
 💡 Philosophy
 
 <p align="center">
@@ -138,16 +133,17 @@ yamlGoals:
   </em>
 </p>
 
-🐍 Contribution Snake
+## 🐍 My Contributions
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Aman530680/Aman530680/output/github-contribution-grid-snake-dark.svg" />
-</p>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aman530680/Aman530680/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aman530680/Aman530680/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Aman530680/Aman530680/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
 
-⚙️ To activate this, add the platane/snk GitHub Action to your profile repo — it auto-generates the snake animation from your contribution graph.
-
-
-
+<hr>
 
 ⚡ Final Transmission
 
